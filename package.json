@@ -1,0 +1,17 @@
+{
+  "name": "cypress-mocha-version-repro",
+  "version": "1.0.0",
+  "description": "repro `Couldn't determine Mocha version` warning",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "7.3.0",
+    "cypress-multi-reporters": "1.5.0",
+    "mocha-junit-reporter": "2.0.0"
+  }
+}
