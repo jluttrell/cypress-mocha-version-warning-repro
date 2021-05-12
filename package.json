@@ -2,7 +2,7 @@
   "name": "cypress-mocha-version-repro",
   "version": "1.0.0",
   "description": "repro `Couldn't determine Mocha version` warning",
-  "main": "index.js",
+  "repository": "https://github.com/jluttrell/cypress-mocha-version-warning-repro.git",
   "scripts": {
     "test": "cypress run",
     "test:open": "cypress open"
