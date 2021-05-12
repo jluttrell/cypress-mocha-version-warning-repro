@@ -8,7 +8,7 @@
     "test:open": "cypress open"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "cypress": "7.3.0",
     "cypress-multi-reporters": "1.5.0",
